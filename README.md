@@ -1,1 +1,1 @@
-# orange-data-mining-tool
+# Explored Orange data mining tool. It is an open-source data mining and machine learning tool that's both powerful and user-friendly. It's a great tool for both beginners and experienced data scientists who want to explore data interactively and build models quickly.
